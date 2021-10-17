@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/adrianamainetti/static/css/main.ca442005.chunk.css",
+    "main.js": "/adrianamainetti/static/js/main.9443b918.chunk.js",
+    "main.js.map": "/adrianamainetti/static/js/main.9443b918.chunk.js.map",
+    "runtime-main.js": "/adrianamainetti/static/js/runtime-main.b3fa67bc.js",
+    "runtime-main.js.map": "/adrianamainetti/static/js/runtime-main.b3fa67bc.js.map",
+    "static/css/2.aa3fa240.chunk.css": "/adrianamainetti/static/css/2.aa3fa240.chunk.css",
+    "static/js/2.505e6cb4.chunk.js": "/adrianamainetti/static/js/2.505e6cb4.chunk.js",
+    "static/js/2.505e6cb4.chunk.js.map": "/adrianamainetti/static/js/2.505e6cb4.chunk.js.map",
+    "static/js/3.618dfe0f.chunk.js": "/adrianamainetti/static/js/3.618dfe0f.chunk.js",
+    "static/js/3.618dfe0f.chunk.js.map": "/adrianamainetti/static/js/3.618dfe0f.chunk.js.map",
+    "index.html": "/adrianamainetti/index.html",
+    "static/css/2.aa3fa240.chunk.css.map": "/adrianamainetti/static/css/2.aa3fa240.chunk.css.map",
+    "static/css/main.ca442005.chunk.css.map": "/adrianamainetti/static/css/main.ca442005.chunk.css.map",
+    "static/js/2.505e6cb4.chunk.js.LICENSE.txt": "/adrianamainetti/static/js/2.505e6cb4.chunk.js.LICENSE.txt",
+    "static/media/GivingBack.7bb7cb6d.svg": "/adrianamainetti/static/media/GivingBack.7bb7cb6d.svg",
+    "static/media/healthyeating.8a143826.svg": "/adrianamainetti/static/media/healthyeating.8a143826.svg",
+    "static/media/jogging.481d0eaf.svg": "/adrianamainetti/static/media/jogging.481d0eaf.svg",
+    "static/media/onlineshopping.9446add8.svg": "/adrianamainetti/static/media/onlineshopping.9446add8.svg",
+    "static/media/settings.827ed8ec.svg": "/adrianamainetti/static/media/settings.827ed8ec.svg",
+    "static/media/specialdeals.7a81439f.svg": "/adrianamainetti/static/media/specialdeals.7a81439f.svg",
+    "static/media/success.2bf1bfe1.svg": "/adrianamainetti/static/media/success.2bf1bfe1.svg",
+    "static/media/takeabreak.fd61ccb5.svg": "/adrianamainetti/static/media/takeabreak.fd61ccb5.svg",
+    "static/media/testimonial.10eb3f58.svg": "/adrianamainetti/static/media/testimonial.10eb3f58.svg",
+    "static/media/vision.f9864f7d.svg": "/adrianamainetti/static/media/vision.f9864f7d.svg",
+    "static/media/worklifebalance.cf163a6e.svg": "/adrianamainetti/static/media/worklifebalance.cf163a6e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3fa67bc.js",
+    "static/css/2.aa3fa240.chunk.css",
+    "static/js/2.505e6cb4.chunk.js",
+    "static/css/main.ca442005.chunk.css",
+    "static/js/main.9443b918.chunk.js"
+  ]
+}
